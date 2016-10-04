@@ -1,0 +1,16 @@
+c:\users\mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\bin\Debug\Skype_verA.exe.config
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\bin\Debug\Skype_verA.exe
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\bin\Debug\Skype_verA.pdb
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\ekran_dzwonienia.g.cs
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\App.g.cs
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA_MarkupCompile.cache
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA_MarkupCompile.lref
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\ekran_dzwonienia.baml
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.g.resources
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.Properties.Resources.resources
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.csproj.GenerateResource.Cache
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.exe
+C:\Users\Mateusz\documents\visual studio 2015\Projects\Skype_verA\Skype_verA\obj\Debug\Skype_verA.pdb
